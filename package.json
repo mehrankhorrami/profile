@@ -1,0 +1,15 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "Mehran Khorrami profile",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/styles.css -o ./src/styles-out.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
